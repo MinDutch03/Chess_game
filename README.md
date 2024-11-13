@@ -161,7 +161,7 @@ If you want to play a game with the AI:
 
 The `DEPTH` setting determines how many moves ahead the AI will consider during its search for the best move. A higher depth generally results in a stronger AI, but it also requires more computational resources.
 
-This emphasizes the recommendation to keep the `DEPTH` value at 4 or lower for a balance between AI strength and computational efficiency.
+This emphasizes the recommendation to keep the `DEPTH` value at 3 or lower for a balance between AI strength and computational efficiency.
 
 If you want to modify DEPTH:
 
