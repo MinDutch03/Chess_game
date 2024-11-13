@@ -149,8 +149,8 @@ If you want to play a game with the AI:
 - Open the `main.py` file and modify the following lines:
 
    ```python
-   SET_WHITE_AS_BOT = True
-   SET_BLACK_AS_BOT = False
+   SET_WHITE_AS_BOT = False
+   SET_BLACK_AS_BOT = True
 
 - To flip the board, go to `engine.py` and set:
 
