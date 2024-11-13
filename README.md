@@ -125,7 +125,7 @@ The game will automatically handle the rules of chess, including legal moves, ca
    ```bash
    python chess/main.py
 
-## Settings for AI
+## Settings
 
 ### Human vs Human Gameplay:
 
